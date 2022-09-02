@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/02 09:46:24.000.982,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 14:35:41.109,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 14:36:32.193,C:\ProjetoDelphi\uMain.dfm=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 14:36:32.193,C:\ProjetoDelphi\uMain.pas=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 14:36:51.096,C:\ProjetoDelphi\Vendas.dproj=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/09/02 14:52:21.445,=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 14:53:18.659,C:\ProjetoDelphi\datamodule\uDTMConexao.dfm=C:\ProjetoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 14:53:18.659,C:\ProjetoDelphi\datamodule\uDTMConexao.pas=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 15:52:53.700,=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 15:53:50.381,C:\ProjetoDelphi\Heranca\uTelaheranca.dfm=C:\ProjetoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 15:53:50.381,C:\ProjetoDelphi\Heranca\uTelaheranca.pas=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 16:30:39.738,=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/09/02 16:31:28.768,C:\ProjetoDelphi\Cadastro\uCadCategoria.dfm=C:\ProjetoDelphi\Unit1.dfm</Transaction>
+    <Transaction>2022/09/02 16:31:28.768,C:\ProjetoDelphi\Cadastro\uCadCategoria.pas=C:\ProjetoDelphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

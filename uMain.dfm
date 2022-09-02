@@ -1,0 +1,70 @@
+object frmPrincipal: TfrmPrincipal
+  Left = 0
+  Top = 0
+  Caption = 'Menu Principal'
+  ClientHeight = 373
+  ClientWidth = 744
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  Menu = mainPrincipal
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object mainPrincipal: TMainMenu
+    Left = 696
+    Top = 8
+    object CADASTRO1: TMenuItem
+      Caption = 'CADASTRO'
+      object Cliente1: TMenuItem
+        Caption = 'Cliente'
+      end
+      object N1: TMenuItem
+        Caption = '-'
+      end
+      object Categoria1: TMenuItem
+        Caption = 'Categoria'
+        OnClick = Categoria1Click
+      end
+      object Categoria2: TMenuItem
+        Caption = 'Produto'
+      end
+      object N2: TMenuItem
+        Caption = '-'
+      end
+      object mnuFechar: TMenuItem
+        Caption = 'Fechar'
+        OnClick = mnuFecharClick
+      end
+    end
+    object MOVIMENTACAO1: TMenuItem
+      Caption = 'MOVIMENTACAO'
+      object Vendas1: TMenuItem
+        Caption = 'Venda'
+      end
+    end
+    object RELATORIO1: TMenuItem
+      Caption = 'RELATORIO'
+      object Cliente2: TMenuItem
+        Caption = 'Cliente'
+      end
+      object Cliente3: TMenuItem
+        Caption = '-'
+      end
+      object Produto1: TMenuItem
+        Caption = 'Produto'
+      end
+      object Produto2: TMenuItem
+        Caption = '-'
+      end
+      object VendaporData1: TMenuItem
+        Caption = 'Venda por Data'
+      end
+    end
+  end
+end

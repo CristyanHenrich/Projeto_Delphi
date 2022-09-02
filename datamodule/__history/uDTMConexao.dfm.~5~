@@ -1,0 +1,22 @@
+object dtmPrincipal: TdtmPrincipal
+  OldCreateOrder = False
+  Height = 213
+  Width = 561
+  object ConexaoDB: TZConnection
+    ControlsCodePage = cCP_UTF16
+    AutoEncodeStrings = True
+    Catalog = ''
+    Properties.Strings = (
+      'controls_cp=CP_UTF16')
+    SQLHourGlass = True
+    HostName = '.\SERVER2014'
+    Port = 0
+    Database = 'vendas'
+    User = 'sa'
+    Password = 'Rafael@galo13s'
+    Protocol = 'mssql'
+    LibraryLocation = 'C:\ProjetoDelphi\ntwdblib.dll'
+    Left = 40
+    Top = 24
+  end
+end
